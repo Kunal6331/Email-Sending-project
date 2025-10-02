@@ -19,7 +19,7 @@ public class emailcontrolled {
 		m.setTo("kunal57shingote@gmail.com");
 		m.setFrom("kunal57shingote@gmail.com");
 		m.setSubject("Skill Up Now");
-		m.setText("Hii...How are you");
+		m.setText("Hii...How aryou");
 		
 		javaMailSender.send(m);
 	}
